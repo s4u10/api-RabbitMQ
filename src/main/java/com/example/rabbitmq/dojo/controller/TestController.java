@@ -1,5 +1,11 @@
 package com.example.rabbitmq.dojo.controller;
 
+/**
+ * 
+ * @author s4u10 
+ * 
+ */
+
 
 import org.springframework.amqp.core.AmqpTemplate;
 import org.springframework.amqp.core.Message;

@@ -1,4 +1,11 @@
 package com.example.rabbitmq.dojo;
+/**
+ * 
+ * @see lab RabbitMQ
+ * 
+ * @author s4u10 
+ * 
+ */
 
 import org.springframework.amqp.rabbit.annotation.EnableRabbit;
 import org.springframework.boot.SpringApplication;

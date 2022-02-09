@@ -1,4 +1,9 @@
 package com.example.rabbitmq.dojo.config;
+/**
+ * 
+ * @author s4u10 
+ * 
+ */
 
 import org.springframework.amqp.core.Binding;
 import org.springframework.amqp.core.BindingBuilder;

@@ -1,4 +1,9 @@
 package com.example.rabbitmq.dojo.consumer;
+/**
+ * 
+ * @author s4u10 
+ * 
+ */
 
 import org.springframework.amqp.rabbit.annotation.RabbitListener;
 import org.springframework.messaging.handler.annotation.Payload;
